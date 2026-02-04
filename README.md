@@ -1,3 +1,7 @@
+This is an advertising panel designed for advertising companies, 
+which includes physical buttons to control multiple switches, 
+lighting effects, and a player
+
 IoT Device Orchestrator - C# WPF Control Hub
 A comprehensive IoT integration platform built with C# WPF 
 that unifies multiple industrial communication protocols to o
